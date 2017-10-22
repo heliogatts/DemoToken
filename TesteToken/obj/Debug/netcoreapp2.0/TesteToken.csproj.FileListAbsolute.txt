@@ -1,0 +1,11 @@
+C:\Users\helio\Documents\Visual Studio 2017\Projects\TesteToken\TesteToken\bin\Debug\netcoreapp2.0\TesteToken.deps.json
+C:\Users\helio\Documents\Visual Studio 2017\Projects\TesteToken\TesteToken\bin\Debug\netcoreapp2.0\TesteToken.runtimeconfig.json
+C:\Users\helio\Documents\Visual Studio 2017\Projects\TesteToken\TesteToken\bin\Debug\netcoreapp2.0\TesteToken.runtimeconfig.dev.json
+C:\Users\helio\Documents\Visual Studio 2017\Projects\TesteToken\TesteToken\bin\Debug\netcoreapp2.0\TesteToken.dll
+C:\Users\helio\Documents\Visual Studio 2017\Projects\TesteToken\TesteToken\obj\Debug\netcoreapp2.0\TesteToken.csprojResolveAssemblyReference.cache
+C:\Users\helio\Documents\Visual Studio 2017\Projects\TesteToken\TesteToken\obj\Debug\netcoreapp2.0\TesteToken.csproj.CoreCompileInputs.cache
+C:\Users\helio\Documents\Visual Studio 2017\Projects\TesteToken\TesteToken\obj\Debug\netcoreapp2.0\TesteToken.AssemblyInfoInputs.cache
+C:\Users\helio\Documents\Visual Studio 2017\Projects\TesteToken\TesteToken\obj\Debug\netcoreapp2.0\TesteToken.AssemblyInfo.cs
+C:\Users\helio\Documents\Visual Studio 2017\Projects\TesteToken\TesteToken\bin\Debug\netcoreapp2.0\TesteToken.pdb
+C:\Users\helio\Documents\Visual Studio 2017\Projects\TesteToken\TesteToken\obj\Debug\netcoreapp2.0\TesteToken.dll
+C:\Users\helio\Documents\Visual Studio 2017\Projects\TesteToken\TesteToken\obj\Debug\netcoreapp2.0\TesteToken.pdb
